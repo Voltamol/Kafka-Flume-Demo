@@ -73,7 +73,7 @@ For a more impressive presentation, you can monitor different aspects:
 
 ### Terminal 1: Main Demo
 ```bash
-python3 integrated_demo.py
+python3 kafka-demo.py
 ```
 
 ### Terminal 2: HDFS Monitoring
